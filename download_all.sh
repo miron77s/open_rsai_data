@@ -1,0 +1,4 @@
+sh download_rasters.sh
+sh download_hydro_dataset.sh
+sh download_green_dataset.sh
+sh download_building_dataset.sh
