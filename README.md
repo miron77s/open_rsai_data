@@ -9,19 +9,19 @@ OpenRSAI-Data contains training datasets and demonstration data for [OpenRSAI-Co
 The repository contains the following data:
 - vector maps of buidings, greenery and hydrography in shape format (`{green|hydro|buildings/vector/osm}` directory);
 - QGIS projects for source raster / vector data visualization (`{green|hydro|buildings/vector/qgis}` directory);
-- downloadable raster images (`raster` directory);
+- downloadable raster images (`raster` directory):
 ```
 sh download_rasters.sh
 ```
-- downloadable buildings training dataset in Yolo format (`buildings/training` directory);
+- downloadable buildings training dataset in Yolo format (`buildings/training` directory):
 ```
 download_building_dataset.sh
 ```
-- downloadable greenery training dataset in MS COCO format (`green/training` directory);
+- downloadable greenery training dataset in MS COCO format (`green/training` directory):
 ```
 download_green_dataset.sh
 ```
-- downloadable hydrography training dataset in MS COCO format (`hydro/training` directory).
+- downloadable hydrography training dataset in MS COCO format (`hydro/training` directory):
 ```
 download_hydro_dataset.sh
 ```
