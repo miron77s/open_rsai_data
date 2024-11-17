@@ -4,6 +4,10 @@
 
 OpenRSAI-Data contains training datasets and demonstration data for [OpenRSAI-Core](https://github.com/miron77s/open_rsai). and [OpenRSAI-Algos](https://github.com/miron77s/open_rsai_algos).
 
+## Hardware
+
+The full dataset requires 40Gb of free disk space to be downloaded and extracted. The actual dataset size is 28Gb.
+
 ## Contents and Installation
 
 The repository contains the following data:
