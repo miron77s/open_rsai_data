@@ -8,6 +8,15 @@ OpenRSAI-Data contains training datasets and demonstration data for [OpenRSAI-Co
 
 The full dataset requires 40Gb of free disk space to be downloaded and extracted. The actual dataset size is 28Gb.
 
+## Requirements
+
+To extract the splitted archives of hydro and greenery training dataset the `p7zip` is required by the download scripts:
+
+```
+sudo apt-get update
+sudo apt-get install p7zip-full
+```
+
 ## Contents and Installation
 
 The repository contains the following data:
