@@ -2,7 +2,11 @@
 
 ## Description
 
-OpenRSAI-Data contains training datasets and demonstration data for [OpenRSAI-Core](https://github.com/miron77s/open_rsai). and [OpenRSAI-Algos](https://github.com/miron77s/open_rsai_algos).
+OpenRSAI-Data contains training datasets and demonstration data for [OpenRSAI-Core](https://github.com/miron77s/open_rsai) and [OpenRSAI-Algos](https://github.com/miron77s/open_rsai_algos).
+
+## Tutorial
+
+The OpenRSAI-Data is the [Open Remote Sensing AI Library Core](https://github.com/miron77s/open_rsai) library extension that can be installed and used in complex according the [tutorial](https://github.com/miron77s/open_rsai/blob/main/tutorial/TUTORIAL.md).
 
 ## Hardware
 
