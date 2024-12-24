@@ -7,3 +7,5 @@ wget -nc -O ./raster/Kursk/Mapbox_19_3395.tif     https://getfile.dokpub.com/yan
 wget -nc -O ./raster/Kursk/Mapbox_19_3395.tif.ovr https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/8zsxFvPlnNXHww
 wget -nc -O ./raster/Kursk/Yandex_19_3395.tif     https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/8C5hMaDDzUqZvw
 wget -nc -O ./raster/Kursk/Yandex_19_3395.tif.ovr https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/hRvIBANIo03BqA
+wget -nc -O ./raster/Kursk/Bing_19_3395_UTM_37N.tif     https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/H7x56XJHnmtNiA
+wget -nc -O ./raster/Kursk/Bing_19_3395_UTM_37N.tif.ovr https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/d5foofwafjIhow
