@@ -10,7 +10,7 @@ The OpenRSAI-Data is the [Open Remote Sensing AI Library Core](https://github.co
 
 ## Hardware
 
-The full dataset requires 40Gb of free disk space to be downloaded and extracted. The actual dataset size is 28Gb.
+The full dataset requires 40Gb of free disk space to be downloaded and extracted. The actual dataset size is 30Gb.
 
 ## Requirements
 
